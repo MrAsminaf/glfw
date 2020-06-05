@@ -12,7 +12,8 @@ _ReSharper*
 CMakeSettings.json
 Win32
 x64
-Debug
+examples/Debug
+tests/Debug
 Release
 MinSizeRel
 RelWithDebInfo
@@ -66,7 +67,7 @@ src/libglfw.dylib
 src/libglfw.3.dylib
 src/libglfw.3.4.dylib
 src/libglfw3.a
-src/glfw3.lib
+#src/glfw3.lib
 src/glfw3.dll
 src/glfw3dll.lib
 src/libglfw3dll.a
